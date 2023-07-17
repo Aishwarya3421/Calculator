@@ -2,8 +2,8 @@
 
 A simple calculator application built using Java Swing.
 
-![Calculator](![Calculatorimg](https://github.com/Aishwarya3421/Calculator/assets/87113316/8f003521-53cc-4d66-80b8-ae58eed898ec)
-)
+![image](https://github.com/Aishwarya3421/Calculator/assets/87113316/9e5b0af0-41f4-4030-918c-3215864d3804)
+
 
 ## Description
 The Calculator project is a Java Swing application that provides a user-friendly interface for performing basic arithmetic operations. It allows users to enter numbers, perform calculations, and view the result.
