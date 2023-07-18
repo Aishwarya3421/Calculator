@@ -12,7 +12,8 @@ The Calculator project is a Java Swing application that provides a user-friendly
 To run the Calculator application locally, follow these steps:
 
 1. Ensure you have Java Development Kit (JDK) installed on your system.
-2. Clone this repository to your local machine using the following command:3. Open the project in IntelliJ or any Java IDE of your choice.
+2. Clone this repository to your local machine using the following command:
+3. Open the project in IntelliJ or any Java IDE of your choice.
 4. Build and run the application from the IDE.
 
 ## Usage
